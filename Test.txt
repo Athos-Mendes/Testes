@@ -1,3 +1,7 @@
 This is a file which contains some text.
 
 Now this file is being modified.
+
+Now this file is being modified once more.
+
+Now this file is being modified again.
